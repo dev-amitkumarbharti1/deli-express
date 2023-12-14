@@ -1,0 +1,9 @@
+<Order orderNumber="5262905901352" fulfillmentDate="2023-02-24T10:16:11" creationDate="2023-02-24T10:15:07" payAtStore="false" delivered="false" total="141.6">
+        <Customer name="Raunak Yadav" accountNumber="6828064637224" />
+        <Service scancode="eService" quantity="1"/>
+        <Delivery scancode="eDelivery" quantity="0"/>
+        <Item scancode="64402" priceLevel="1">
+            <Weight amount="0.001" unit="lb"/>
+            
+            </Item>
+            </Order>

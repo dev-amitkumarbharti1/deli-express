@@ -1,0 +1,211 @@
+<Items dateGenerated="2023-01-19T08:30:45">
+<Item scancode="63464" discontinued="false" taxExempt="true">
+		<ReceiptAlias>CARANDO MORTADELLA</ReceiptAlias>
+		<Name>CARANDO MORTADELLA</Name>
+		<Size>LB</Size>
+		<Brand>CARANDO</Brand>
+		<Department name="4 CHARCUTERIE / FROMAGERIE" number="4"></Department>
+		<WeightUnit>Pounds</WeightUnit>
+		<OnHand>16.970</OnHand>
+		<SafetyStock>0.000</SafetyStock>
+		<Location>CHARCUTERIE</Location>
+		<PowerField1>004A CHARCUTERIE</PowerField1>
+		<PowerField2>004A JAMBONS</PowerField2>
+		<PowerField5>LBS</PowerField5>
+		<Pricing>
+			<Price price="2000.00" divider="1" priceLevel="1"></Price>
+			<Price price="720.00" divider="1" priceLevel="2"></Price>
+			<Price price="0.00" divider="1" priceLevel="3"></Price>
+			<Price price="0.00" divider="1" priceLevel="4"></Price>
+						<PromotionalPricing startDate="2023-02-02T12:00:00.000" endDate="2023-02-28T06:00:00.000">
+				<Price price="1080.00" divider="1" priceLevel="1"></Price>
+				<Price price="720.00" divider="1" priceLevel="2"></Price>
+				<Price price="0.00" divider="1" priceLevel="3"></Price>
+				<Price price="0.00" divider="1" priceLevel="4"></Price>
+		</PromotionalPricing></Pricing>
+	</Item>
+<Item scancode="3068320085005" discontinued="false" taxExempt="true">
+		<ReceiptAlias>EVIAN EAU MINERALE NATUREL 1.5LT</ReceiptAlias>
+		<Name>EVIAN EAU MINERALE NATURELLE</Name>
+		<Size>1.5 LT</Size>
+		<Brand>EVIAN</Brand>
+		<Department name="1 BOISSONS" number="1"></Department>
+		<OnHand>207.000</OnHand>
+		<SafetyStock>0.000</SafetyStock>
+		<Location>R1 / R6</Location>
+		<PowerField1>001B BOISSONS NON-ALCOOLISE</PowerField1>
+		<PowerField2>001B EAU</PowerField2>
+		<AlternateItems>
+			<AlternateItem scancode="3068320126807" default="false">
+				<ReceiptAlias>EVIAN EAU MINERALE NATUREL 1.5LT</ReceiptAlias>
+				<Quantity>1.000</Quantity>
+			</AlternateItem>
+			<AlternateItem scancode="3068320120287" default="false">
+				<ReceiptAlias>EVIAN EAU MINERALE NATUREL 1.5LT</ReceiptAlias>
+				<Quantity>1.000</Quantity>
+			</AlternateItem>
+		</AlternateItems>
+		<Image filename="img-2481-1002-1675444519811.jpg"></Image>
+		<Pricing>
+			<Price price="535.00" divider="1" priceLevel="1"></Price>
+			<Price price="0.00" divider="1" priceLevel="2"></Price>
+			<Price price="0.00" divider="1" priceLevel="3"></Price>
+			<Price price="0.00" divider="1" priceLevel="4"></Price>
+		</Pricing>
+	</Item>
+<Item scancode="65043" discontinued="false" taxExempt="true">
+<ReceiptAlias>QUEUE DE BOEUF</ReceiptAlias>
+<Name>QUEUE DE BOEUF</Name>
+<Size>LB</Size>
+<Memo/>
+<Brand>ABATS</Brand>
+<Department name="2 BOUCHERIE" number="2"/>
+<WeightUnit>Pounds</WeightUnit>
+<OnHand>10.060</OnHand>
+<SafetyStock>0.000</SafetyStock>
+<Location>R6</Location>
+<PowerField1>002E ABATS</PowerField1>
+<PowerField2>002E ABATS LOCAL</PowerField2>
+<PowerField5>LBS</PowerField5>
+<Pricing>
+<Price price="445.00" divider="1" priceLevel="1"/>
+<Price price="0.00" divider="1" priceLevel="2"/>
+<Price price="0.00" divider="1" priceLevel="3"/>
+<Price price="0.00" divider="1" priceLevel="4"/>
+</Pricing>
+</Item>
+<Item scancode="63438" discontinued="false" taxExempt="true">
+<ReceiptAlias>EL TORO IMPERIAL HAM</ReceiptAlias>
+<Name>EL TORO IMPERIAL HAM</Name>
+<Size>LB</Size>
+<Memo/>
+<Brand>EL TORO</Brand>
+<Department name="4 CHARCUTERIE / FROMAGERIE" number="4"/>
+<WeightUnit>Pounds</WeightUnit>
+<OnHand>63.650</OnHand>
+<SafetyStock>0.000</SafetyStock>
+<Location>CHARCUTERIE</Location>
+<PowerField1>004A CHARCUTERIE</PowerField1>
+<PowerField2>004A JAMBONS</PowerField2>
+<PowerField5>LBS</PowerField5>
+<Pricing>
+<Price price="745.00" divider="1" priceLevel="1"/>
+<Price price="300.00" divider="1" priceLevel="2"/>
+<Price price="0.00" divider="1" priceLevel="3"/>
+<Price price="0.00" divider="1" priceLevel="4"/>
+</Pricing>
+</Item>
+<Item scancode="64400" discontinued="false" taxExempt="true">
+<ReceiptAlias>AIL LOCAL</ReceiptAlias>
+<Name>AIL LOCAL</Name>
+<Size>LB</Size>
+<Memo/>
+<Brand>AIL</Brand>
+<Department name="8 FRUITS ET LEGUMES" number="8"/>
+<WeightUnit>Pounds</WeightUnit>
+<OnHand>117.850</OnHand>
+<SafetyStock>0.000</SafetyStock>
+<Location>R1</Location>
+<PowerField1>008C LEGUMES LOCAUX</PowerField1>
+<PowerField2>008C LEGUMES LOCAUX (LBS)</PowerField2>
+<PowerField5>LBS</PowerField5>
+<Image filename="img-1598-1000-1674135045985.jpg"/>
+<Pricing>
+<Price price="720.00" divider="1" priceLevel="1"/>
+<Price price="0.00" divider="1" priceLevel="2"/>
+<Price price="0.00" divider="1" priceLevel="3"/>
+<Price price="0.00" divider="1" priceLevel="4"/>
+</Pricing>
+</Item>
+<Item scancode="64402" discontinued="false" taxExempt="true">
+<ReceiptAlias>AUBERGINE LOCALE</ReceiptAlias>
+<Name>AUBERGINE LOCALE</Name>
+<Size>LB</Size>
+<Memo/>
+<Brand>AUBERGINE</Brand>
+<Department name="8 FRUITS ET LEGUMES" number="8"/>
+<WeightUnit>Pounds</WeightUnit>
+<OnHand>115.570</OnHand>
+<SafetyStock>0.000</SafetyStock>
+<Location>R1</Location>
+<PowerField1>008C LEGUMES LOCAUX</PowerField1>
+<PowerField2>008C LEGUMES LOCAUX (LBS)</PowerField2>
+<PowerField5>LBS</PowerField5>
+<Image filename="img-1599-1000-1674135045985.jpg"/>
+<Pricing>
+<Price price="120.00" divider="1" priceLevel="1"/>
+<Price price="0.00" divider="1" priceLevel="2"/>
+<Price price="0.00" divider="1" priceLevel="3"/>
+<Price price="0.00" divider="1" priceLevel="4"/>
+</Pricing>
+</Item>
+<Item scancode="3600550213423" discontinued="false" taxExempt="true">
+<ReceiptAlias>NARTA RESIXYL PARFUM FRAIS 200ML</ReceiptAlias>
+<Name>NARTA RESIXYL PARFUM FRAIS FEM</Name>
+<Size>200 ML</Size>
+<Brand>NARTA</Brand>
+<Department name="5 COSMETIQUES / PARFUME / HYG" number="5"/>
+<OnHand>13.000</OnHand>
+<SafetyStock>0.000</SafetyStock>
+<Location>R4</Location>
+<PowerField1>005B PARFUMERIE</PowerField1>
+<PowerField2>005B DEODORANTS FEMME</PowerField2>
+<Image filename="img-5677-1002-1674135045985.jpg"/>
+<Pricing>
+<Price price="1525.00" divider="1" priceLevel="1"/>
+<Price price="0.00" divider="1" priceLevel="2"/>
+<Price price="0.00" divider="1" priceLevel="3"/>
+<Price price="0.00" divider="1" priceLevel="4"/>
+</Pricing>
+</Item>
+<Item scancode="63551" discontinued="false" taxExempt="true">
+		<ReceiptAlias>EL TORO POCK COOKED ROAST LB</ReceiptAlias>
+		<Name>EL TORO POCK COOKED ROAST</Name>
+		<Size>LB</Size>
+		<Brand>EL TORO</Brand>
+		<Department name="4 CHARCUTERIE / FROMAGERIE" number="4"></Department>
+		<WeightUnit>Pounds</WeightUnit>
+		<OnHand>24.790</OnHand>
+		<SafetyStock>0.000</SafetyStock>
+		<Location>CHARCUTERIE</Location>
+		<PowerField1>004A CHARCUTERIE</PowerField1>
+		<PowerField2>004A JAMBONS</PowerField2>
+		<PowerField5>LBS</PowerField5>
+		<Pricing>
+			<Price price="1615.00" divider="1" priceLevel="1"></Price>
+			<Price price="0.00" divider="1" priceLevel="2"></Price>
+			<Price price="0.00" divider="1" priceLevel="3"></Price>
+			<Price price="0.00" divider="1" priceLevel="4"></Price>
+						<PromotionalPricing startDate="2023-02-02T12:00:00.000" endDate="2023-02-28T06:00:00.000">
+				<Price price="1045.00" divider="1" priceLevel="1"></Price>
+				<Price price="0.00" divider="1" priceLevel="2"></Price>
+				<Price price="0.00" divider="1" priceLevel="3"></Price>
+				<Price price="0.00" divider="1" priceLevel="4"></Price>
+		</PromotionalPricing></Pricing>
+	</Item>
+	<Item scancode="049000026276" discontinued="false" taxExempt="true">
+		<ReceiptAlias>FANTA RAISIN 20Z</ReceiptAlias>
+		<Name>FANTA RAISIN</Name>
+		<Size>20 OZ</Size>
+		<Brand>FANTA</Brand>
+		<Department name="1 BOISSONS" number="1"></Department>
+		<OnHand>727.000</OnHand>
+		<SafetyStock>0.000</SafetyStock>
+		<Location>R1 / R6</Location>
+		<PowerField1>001B BOISSONS NON-ALCOOLISE</PowerField1>
+		<PowerField2>001B BOISSONS GAZEUSES</PowerField2>
+		<Image filename="img-5599-1002-1675444519811.jpg"></Image>
+		<Pricing>
+			<Price price="70.00" divider="1" priceLevel="1"></Price>
+			<Price price="0.00" divider="1" priceLevel="2"></Price>
+			<Price price="0.00" divider="1" priceLevel="3"></Price>
+			<Price price="0.00" divider="1" priceLevel="4"></Price>
+						<PromotionalPricing startDate="2023-02-03T10:00:00.000" endDate="2023-02-15T06:00:00.000">
+				<Price price="50.00" divider="1" priceLevel="1"></Price>
+				<Price price="0.00" divider="1" priceLevel="2"></Price>
+				<Price price="0.00" divider="1" priceLevel="3"></Price>
+				<Price price="0.00" divider="1" priceLevel="4"></Price>
+		</PromotionalPricing></Pricing>
+	</Item>
+
+</Items>

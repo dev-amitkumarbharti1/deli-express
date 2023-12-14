@@ -1,0 +1,29 @@
+<Items dateGenerated="2023-01-19T08:30:45">
+
+<Item scancode="63551745" discontinued="false" taxExempt="true">
+		<ReceiptAlias>EL TORO POCK COOKED ROAST LB</ReceiptAlias>
+		<Name>EL TORO POCK COOKED ROAST new product</Name>
+		<Size>LB</Size>
+		<Brand>EL TORO</Brand>
+		<Department name="4 CHARCUTERIE / FROMAGERIE" number="4"></Department>
+		<WeightUnit>Pounds</WeightUnit>
+		<OnHand>24.790</OnHand>
+		<SafetyStock>0.000</SafetyStock>
+		<Location>CHARCUTERIE</Location>
+		<PowerField1>004A CHARCUTERIE</PowerField1>
+		<PowerField2>004A JAMBONS</PowerField2>
+		<PowerField5>LBS</PowerField5>
+		<Pricing>
+			<Price price="1615.00" divider="1" priceLevel="1"></Price>
+			<Price price="0.00" divider="1" priceLevel="2"></Price>
+			<Price price="0.00" divider="1" priceLevel="3"></Price>
+			<Price price="0.00" divider="1" priceLevel="4"></Price>
+						<PromotionalPricing startDate="2023-02-02T12:00:00.000" endDate="2023-02-28T06:00:00.000">
+				<Price price="1045.00" divider="1" priceLevel="1"></Price>
+				<Price price="0.00" divider="1" priceLevel="2"></Price>
+				<Price price="0.00" divider="1" priceLevel="3"></Price>
+				<Price price="0.00" divider="1" priceLevel="4"></Price>
+		</PromotionalPricing></Pricing>
+	</Item>
+
+</Items>
